@@ -754,6 +754,10 @@ select {
   transition: 0;
   color: #fff;
   text-decoration: none; }
+  
+.logo {
+  width: 150px;
+  height: auto; }
 
 .navbar__menu {
   display: none; }
